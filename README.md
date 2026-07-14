@@ -1,2 +1,2 @@
-# mech-interp-tutorials
+# tutorials
 Following tutorials and doing small projects
